@@ -13,7 +13,7 @@ const Work = () => {
         <Container className='lg:flex'>
         <div className='lg:w-[4/12] w-full'>
                 <h1 className='lg:text-[48px] text-[30px] font-semibold text-black lg:w-[400px] w-full text-center lg:text-left'>How we work</h1>
-                <p className='lg:text-[16px] text-[10px] text-black lg:w-[400px] w-full text-center lg:text-left'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                <p className='lg:text-[16px] text-[10px] text-black lg:w-[400px] w-full text-center  lg:text-left'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
                 <div className='text-center lg:text-left'> 
                 <a className='lg:text-[16px] text-[10px] font-semibold text-[#2405F2]  ' href="#">Get in touch with us</a>
                 </div>
