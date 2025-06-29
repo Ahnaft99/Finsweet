@@ -14,7 +14,10 @@ const Work = () => {
         <div className='lg:w-[4/12] w-full'>
                 <h1 className='lg:text-[48px] text-[30px] font-semibold text-black lg:w-[400px] w-full text-center lg:text-left'>How we work</h1>
                 <p className='lg:text-[16px] text-[10px] text-black lg:w-[400px] w-full text-center lg:text-left'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                <div className='text-center lg:text-left'> 
                 <a className='lg:text-[16px] text-[10px] font-semibold text-[#2405F2]  ' href="#">Get in touch with us</a>
+                </div>
+               
             </div>
             <div className='lg:w-[8/12] w-full flex lg:mx-auto py-2 '>
             <div className='lg:py-0 py-5'>
