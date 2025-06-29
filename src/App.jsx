@@ -1,6 +1,5 @@
-import Banner from "./Components/Banner"
-import Header from "./Components/Header"
-import Work from "./Components/Work"
+import Home from "./Components/Pages/Home"
+
 
 
 
@@ -9,9 +8,7 @@ function App() {
 
   return (
     <>
-     <Header/>
-     <Banner/>
-     <Work/>
+    <Home/>
     </>
   )
 }
