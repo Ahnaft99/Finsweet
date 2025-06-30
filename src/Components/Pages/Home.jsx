@@ -6,6 +6,8 @@ import Project from '../Project'
 import Design from '../Design'
 import Client from '../Client'
 import Question from '../Question'
+import Form from '../Form'
+import Footer from '../Footer'
 
 const Home = () => {
   return (
@@ -17,6 +19,8 @@ const Home = () => {
     <Design/>
     <Client/>
     <Question/>
+    <Form/>
+    <Footer/>
     </>
   )
 }
