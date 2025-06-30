@@ -1,6 +1,6 @@
 import React from 'react'
 import Container from './Container'
-import people from '../assets/icon.png'
+import people from '../assets/Icon.png'
 import DesignReusable from './Reusable/DesignReusable'
 import icon2 from '../assets/i2.png'
 import icon3 from '../assets/i3.png'
